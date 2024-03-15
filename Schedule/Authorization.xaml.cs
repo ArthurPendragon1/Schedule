@@ -18,7 +18,8 @@ namespace Schedule
             loginAdmin = loginTextBox.Text; loginEmployee = loginTextBox.Text;
             passwordAdmin = passwordTextBox.Password; passwordEmployee = passwordTextBox.Password;
 
-            if (loginTextBox.Text == "admin" && passwordTextBox.Password == "admin" || loginTextBox.Text == "employee" && passwordTextBox.Password == "employee")
+            if (loginTextBox.Text == "Ivanova" && passwordTextBox.Password == "Ivanova" || loginTextBox.Text == "Petrovskaya" && passwordTextBox.Password == "Petrovskaya" || 
+                loginTextBox.Text == "Sedina" && passwordTextBox.Password == "Sedina" || loginTextBox.Text == "Rozhkova" && passwordTextBox.Password == "Rozhkova")
             {
                 if (loginTextBox.Text == "admin" && passwordTextBox.Password == "admin")
                 {
