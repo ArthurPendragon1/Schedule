@@ -1,0 +1,15 @@
+F:\Programming\Schedule\Schedule\bin\Debug\Schedule.exe.config
+F:\Programming\Schedule\Schedule\bin\Debug\Schedule.exe
+F:\Programming\Schedule\Schedule\bin\Debug\Schedule.pdb
+F:\Programming\Schedule\Schedule\obj\Debug\Schedule.csproj.AssemblyReference.cache
+F:\Programming\Schedule\Schedule\obj\Debug\Authorization.g.cs
+F:\Programming\Schedule\Schedule\obj\Debug\App.g.cs
+F:\Programming\Schedule\Schedule\obj\Debug\Schedule_MarkupCompile.cache
+F:\Programming\Schedule\Schedule\obj\Debug\Schedule_MarkupCompile.lref
+F:\Programming\Schedule\Schedule\obj\Debug\Authorization.baml
+F:\Programming\Schedule\Schedule\obj\Debug\Schedule.g.resources
+F:\Programming\Schedule\Schedule\obj\Debug\Schedule.Properties.Resources.resources
+F:\Programming\Schedule\Schedule\obj\Debug\Schedule.csproj.GenerateResource.cache
+F:\Programming\Schedule\Schedule\obj\Debug\Schedule.csproj.CoreCompileInputs.cache
+F:\Programming\Schedule\Schedule\obj\Debug\Schedule.exe
+F:\Programming\Schedule\Schedule\obj\Debug\Schedule.pdb
