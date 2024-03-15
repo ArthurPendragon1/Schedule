@@ -15,11 +15,11 @@ using System.Windows.Shapes;
 namespace Schedule.Windows
 {
     /// <summary>
-    /// Логика взаимодействия для Schedule.xaml
+    /// Логика взаимодействия для ScheduleWindow.xaml
     /// </summary>
-    public partial class Schedule : Window
+    public partial class ScheduleWindow : Window
     {
-        public Schedule()
+        public ScheduleWindow()
         {
             InitializeComponent();
         }

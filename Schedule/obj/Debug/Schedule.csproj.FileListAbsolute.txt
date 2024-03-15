@@ -13,5 +13,7 @@ F:\Programming\Schedule\Schedule\obj\Debug\Schedule.csproj.GenerateResource.cach
 F:\Programming\Schedule\Schedule\obj\Debug\Schedule.csproj.CoreCompileInputs.cache
 F:\Programming\Schedule\Schedule\obj\Debug\Schedule.exe
 F:\Programming\Schedule\Schedule\obj\Debug\Schedule.pdb
-F:\Programming\Schedule\Schedule\obj\Debug\Windows\Schedule.g.cs
-F:\Programming\Schedule\Schedule\obj\Debug\Windows\Schedule.baml
+F:\Programming\Schedule\Schedule\obj\Debug\Windows\ScheduleWindow.g.cs
+F:\Programming\Schedule\Schedule\obj\Debug\Windows\ScheduleWindow.baml
+F:\Programming\Schedule\Schedule\obj\Debug\Windows\PrepaidExpense.g.cs
+F:\Programming\Schedule\Schedule\obj\Debug\Windows\PrepaidExpense.baml

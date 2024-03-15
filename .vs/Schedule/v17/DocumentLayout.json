@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "F:\\Programming\\Schedule\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{192496E7-B26F-4305-B09E-A1DD312ADBB3}|Schedule\\Schedule.csproj|F:\\Programming\\Schedule\\schedule\\authorization.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{192496E7-B26F-4305-B09E-A1DD312ADBB3}|Schedule\\Schedule.csproj|F:\\Programming\\Schedule\\schedule\\authorization.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{192496E7-B26F-4305-B09E-A1DD312ADBB3}|Schedule\\Schedule.csproj|solutionrelative:schedule\\authorization.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{192496E7-B26F-4305-B09E-A1DD312ADBB3}|Schedule\\Schedule.csproj|f:\\programming\\schedule\\schedule\\authorization.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{192496E7-B26F-4305-B09E-A1DD312ADBB3}|Schedule\\Schedule.csproj|solutionrelative:schedule\\authorization.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{192496E7-B26F-4305-B09E-A1DD312ADBB3}|Schedule\\Schedule.csproj|f:\\programming\\schedule\\schedule\\authorization.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{192496E7-B26F-4305-B09E-A1DD312ADBB3}|Schedule\\Schedule.csproj|solutionrelative:schedule\\authorization.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{192496E7-B26F-4305-B09E-A1DD312ADBB3}|Schedule\\Schedule.csproj|f:\\programming\\schedule\\schedule\\windows\\prepaidexpense.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{192496E7-B26F-4305-B09E-A1DD312ADBB3}|Schedule\\Schedule.csproj|solutionrelative:schedule\\windows\\prepaidexpense.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,20 +26,32 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "PrepaidExpense.xaml",
+              "DocumentMoniker": "F:\\Programming\\Schedule\\Schedule\\Windows\\PrepaidExpense.xaml",
+              "RelativeDocumentMoniker": "Schedule\\Windows\\PrepaidExpense.xaml",
+              "ToolTip": "F:\\Programming\\Schedule\\Schedule\\Windows\\PrepaidExpense.xaml",
+              "RelativeToolTip": "Schedule\\Windows\\PrepaidExpense.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-15T09:57:14.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Authorization.xaml.cs",
               "DocumentMoniker": "F:\\Programming\\Schedule\\Schedule\\Authorization.xaml.cs",
               "RelativeDocumentMoniker": "Schedule\\Authorization.xaml.cs",
               "ToolTip": "F:\\Programming\\Schedule\\Schedule\\Authorization.xaml.cs",
               "RelativeToolTip": "Schedule\\Authorization.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-15T07:48:09.088Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Authorization.xaml",
               "DocumentMoniker": "F:\\Programming\\Schedule\\Schedule\\Authorization.xaml",
               "RelativeDocumentMoniker": "Schedule\\Authorization.xaml",

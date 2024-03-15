@@ -21,8 +21,8 @@
         <Grid Grid.Row="0" Grid.Column="0" Background="#0f66a1"/>
         <Grid Grid.Row="0" Grid.Column="1" Background="#0f66a1"/>
         <Grid Grid.Row="0" Grid.Column="2" Background="#0f66a1"/>
-        <TextBox FontSize="26" FontFamily="Impact" Grid.Row="1" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="10, 10, 10, 125" Width="175"/>
-        <PasswordBox PasswordChar="*" FontSize="26" FontFamily="Impact" Grid.Row="1" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="10, 125, 10, 10" Width="175"/>
+        <TextBox Name="loginTextBox" FontSize="26" FontFamily="Impact" Grid.Row="1" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="10, 10, 10, 125" Width="175"/>
+        <PasswordBox Name="passwordTextBox" PasswordChar="*" FontSize="26" FontFamily="Impact" Grid.Row="1" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="10, 125, 10, 10" Width="175"/>
         <TextBlock Text="Логин" FontSize="26" FontFamily="Impact" Grid.Row="1" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="10, 10, 10, 200" />
         <TextBlock Text="Пароль" FontSize="26" FontFamily="Impact" Grid.Row="1" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="10, 50, 10, 10" />
         <TextBlock Foreground="White" Text="УСО ПНИ №10" FontSize="26" FontFamily="Impact" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center"/>
