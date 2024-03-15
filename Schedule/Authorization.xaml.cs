@@ -3,15 +3,12 @@ using System.Windows;
 
 namespace Schedule
 {
-    /// <summary>
-    /// Логика взаимодействия для Authorization.xaml
-    /// </summary>
     public partial class Authorization : Window
     {
         ScheduleWindow scheduleWindow = new ScheduleWindow();
         PrepaidExpense expense = new PrepaidExpense();
-        private string loginAdmin, loginEmployee;
-        private string passwordAdmin, passwordEmployee;
+        private string loginAdmin = string.Empty, loginEmployee = string.Empty;
+        private string passwordAdmin = string.Empty, passwordEmployee = string.Empty;
         public Authorization()
         {
             InitializeComponent();
