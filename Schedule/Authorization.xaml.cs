@@ -24,5 +24,10 @@ namespace Schedule
         {
             InitializeComponent();
         }
+
+        private void JoinToProgram(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }

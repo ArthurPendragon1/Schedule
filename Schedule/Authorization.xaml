@@ -5,8 +5,18 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Schedule"
         mc:Ignorable="d"
-        Title="Авторизация" Height="450" Width="800">
+        Title="Авторизация" Height="550" Width="500">
     <Grid>
-        
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions >
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="6*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Button Name="joinToProgram" Click="JoinToProgram" Content="Войти" FontSize="32" FontFamily="Impact" Grid.Column="1" Grid.Row="2" Width="170" Height="70" HorizontalAlignment="Center" VerticalAlignment="Bottom"/>
     </Grid>
 </Window>
