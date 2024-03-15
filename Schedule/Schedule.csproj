@@ -55,6 +55,9 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Windows\Schedule.xaml.cs">
+      <DependentUpon>Schedule.xaml</DependentUpon>
+    </Compile>
     <Page Include="Authorization.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -67,6 +70,10 @@
       <DependentUpon>Authorization.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Page Include="Windows\Schedule.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs">
@@ -93,6 +100,18 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\icon_new.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\icon_new.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
