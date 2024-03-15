@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Schedule"
         mc:Ignorable="d"
-        Icon="/Resources/icon_new.ico"
+        Icon="/Resources/icon.ico"
         Title="Авторизация" Height="550" Width="500">
     <Grid>
         <Grid.ColumnDefinitions>

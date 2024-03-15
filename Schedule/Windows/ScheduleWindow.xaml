@@ -5,6 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Schedule.Windows"
         mc:Ignorable="d"
+        Icon="/Resources/icon.ico"
         Title="Schedule" Height="450" Width="800">
     <Grid>
         
